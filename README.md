@@ -1,6 +1,6 @@
 # FlaskIntroduction
 
-This repo has been updated to work with `Python v3.8` and up.
+This repo has been works with `Python v3.8` and up.
 
 ### How To Run
 1. Install `virtualenv`:
